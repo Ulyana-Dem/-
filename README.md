@@ -83,11 +83,11 @@
 ![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/1.png)  
 Окно меню.  
 ![Окно меню](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/2.png)  
-Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении.  
+Окно план зала.  
 ![Окно план зала](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/3.png)  
-Окно входа для зарегистрированного пользователя.  
+Окно меню ресторана.  
 ![Окно меню ресторана](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/4.png)  
-Главное окно приложения (пользователь зарегестрирован).  
+Окно вторые блюда.  
 ![Окно вторые блюда](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/5.png)  
 Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
 ![Главное окно приложения после выбора новости в таблице](../../Images/Mockups/MainWindow2.PNG)  
