@@ -81,14 +81,14 @@
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение.  
 ![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/1.png)  
-Окно регистрации нового пользователя.  
-![Окно регистрации нового пользователя](../../Images/Mockups/RegistrationWindow1.PNG)  
+Окно меню.  
+![Окно меню](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/2.png)  
 Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении.  
-![Окно регистрации нового пользователя после ввода имени, уже зарегистрированного в приложении](../../Images/Mockups/RegistrationWindow2.PNG)  
+![Окно план зала](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/3.png)  
 Окно входа для зарегистрированного пользователя.  
-![Окно входа для зарегистрированного пользователя](../../Images/Mockups/LoginScreenForTheRegisteredUser.PNG)  
+![Окно меню ресторана](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/4.png)  
 Главное окно приложения (пользователь зарегестрирован).  
-![Главное окно приложения](../../Images/Mockups/MainWindow1.PNG)  
+![Окно вторые блюда](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/5.png)  
 Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
 ![Главное окно приложения после выбора новости в таблице](../../Images/Mockups/MainWindow2.PNG)  
 Главное окно приложения после выбора новости в таблице (анонимный пользователь).  
