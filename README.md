@@ -80,7 +80,7 @@
 
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение.  
-![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/1.png)  
+![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%92%D1%85%D0%BE%D0%B4.png) 
 Окно "Меню".  
 ![Окно меню](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/2.png)  
 Окно "План зала".  
