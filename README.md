@@ -80,21 +80,29 @@
 
 ## 2.2 Интерфейс пользователя
 Окно входа в приложение.  
-![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%92%D1%85%D0%BE%D0%B4.png) 
+![Окно входа в приложение](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%92%D1%85%D0%BE%D0%B4.png)
+
 Окно "Меню".  
-![Окно меню](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/2.png)  
+![Окно меню](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%9C%D0%B5%D0%BD%D1%8E.png) 
+
 Окно "План зала".  
-![Окно план зала](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/3.png)  
+![Окно план зала](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%9F%D0%BB%D0%B0%D0%BD%20%D0%B7%D0%B0%D0%BB%D0%B0.png)  
 Окно "Меню ресторана".  
-![Окно меню ресторана](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/4.png)  
+![Окно меню ресторана](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%9C%D0%B5%D0%BD%D1%8E%20%D1%80%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD%D0%B0.png)  
+Окно "Первые блюда".  
+![Окно первые блюда](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B5%20%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0.png)  
+
 Окно "Вторые блюда".  
-![Окно вторые блюда](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/5.png)  
-Главное окно приложения после выбора новости в таблице (пользователь зарегестрирован).  
-![Главное окно приложения после выбора новости в таблице](../../Images/Mockups/MainWindow2.PNG)  
-Главное окно приложения после выбора новости в таблице (анонимный пользователь).  
-![Главное окно приложения после выбора новости в таблице](../../Images/Mockups/MainWindowAnonymousUser.PNG)  
-Окно настройки профиля пользователя.  
-![Окно настройки профиля пользователя](../../Images/Mockups/SettingUpAUserProfile.PNG)
+![Окно вторые блюда](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%92%D1%82%D0%BE%D1%80%D1%8B%D0%B5%20%D0%B1%D0%BB%D1%8E%D0%B4%D0%B0.png)
+
+Окно "Алкогольные напитки".  
+![Окно Алкогольные напитки](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%90%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8.png)  
+Окно "Безалкогольные напитки".  
+![Окно безалкогольные напитки](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%91%D0%B5%D0%B7%D0%B0%D0%BB%D0%BA%D0%BE%D0%B3%D0%BE%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5%20%D0%BD%D0%B0%D0%BF%D0%B8%D1%82%D0%BA%D0%B8.png)  
+Окно "Заказ".  
+![Окно Заказ](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%97%D0%B0%D0%BA%D0%B0%D0%B7.png)
+Окно "Оплата"
+![Окно Оплата](https://github.com/Ulyana-Dem/-Restaurant-management-system/blob/master/mockups/%D0%9E%D0%BF%D0%BB%D0%B0%D1%82%D0%B0.png)
 
 <a name="user_specifications"/>
 
