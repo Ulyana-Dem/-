@@ -65,7 +65,7 @@
 <a name="analogues"/>
 
 ## 1.3 Аналоги
-Обзор аналогов представлен в документе [Overview of analogues](../Requirements/Overview%20of%20analogues.md).
+Обзор аналогов представлен по ссылке https://habr.com/ru/post/258679/.
 
 <a name="user_requirements"/>
 
